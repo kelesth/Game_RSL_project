@@ -1,2 +1,2 @@
 # Game_RSL_project
-trying function of open cv library to comlete game's daily tasks
+trying function of open cv library to complete game's daily tasks
