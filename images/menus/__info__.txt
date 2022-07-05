@@ -1,0 +1,3 @@
+pre_fight_menu 0 0 1264 743
+fight_menu 0 0 1264 743
+after_fight_menu 0 0 1264 743

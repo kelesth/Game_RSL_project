@@ -1,0 +1,1 @@
+change_heroes_button 795 645 205 75
