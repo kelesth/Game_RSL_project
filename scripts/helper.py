@@ -55,9 +55,8 @@ def get_img(left, top, width, height, name):
 
 
 if __name__ == '__main__':
-    func_dct: dict[str: Callable] = {
-        'get_mouse': get_mouse,
-        'get_img': get_img}
+    func_dct: dict[str: Callable] = {'get_mouse': get_mouse,
+                                     'get_img': get_img}
     while True:
         try:
             command = input('helper.py << ')

@@ -87,5 +87,3 @@ if __name__ == '__main__':
         if pair[1] == 'Raid: Shadow Legends':
             hwnd1 = pair[0]
     print(hwnd1)
-    sleep(10)
-    click(1098, 656, hwnd1)
